@@ -1,1 +1,2 @@
 
+In the SVM_Pipelines_Cheat_Sheet ipython file, usefull commands needed to apply SV clussifiers were shown. 
